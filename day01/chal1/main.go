@@ -1,10 +1,11 @@
 package main
 
 import (
-	day01 "aoc/day01/lib"
 	"fmt"
 	"log"
 	"os"
+
+	day01 "github.com/oktopac/aoc-2017/day01/lib"
 )
 
 func main() {
